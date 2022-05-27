@@ -9,7 +9,7 @@ import numpy as np
 import random
 import string # to process standard python strings
 
-f=open('nlp python answer finals.txt','r',errors = 'ignore')
+f=open('locals.txt','r',errors = 'ignore')
 m=open('modules pythons.txt','r',errors = 'ignore')
 checkpoint = "./chatbot_weights.ckpt"
 #session = tf.InteractiveSession()
